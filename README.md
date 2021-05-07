@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi [Teddy Paz][website] here 👋
 
-**pazteddy/pazteddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/paz_ted?color=%231DA1F2&label=pazteddy&logo=twitter&style=for-the-badge)
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- Links -->
+[website]:https://pazteddy.com
