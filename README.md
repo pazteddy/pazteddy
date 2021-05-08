@@ -1,6 +1,6 @@
 ### Hi [Teddy Paz][website] here 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/paz_ted?color=%231DA1F2&label=pazteddy&logo=twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paz_ted?color=%231DA1F2&label=pazteddy&logo=twitter&style=for-the-badge)](https://twitter.com/paz_ted)
 
 Here are some ideas to get you started:
 
