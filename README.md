@@ -9,7 +9,7 @@
 - 💬 Ask me about my experience as developer or a recipe cook, because I am chef too.
 - 📫 How to reach me: [pazteddy][website]
 - ⚡ Fun fact: I love videogames but there is no time to play.
-
+---
 ### 🚀 Coding
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,6 +35,5 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/jenkins.svg"/>
-
 <!-- Links -->
 [website]:https://pazteddy.com
