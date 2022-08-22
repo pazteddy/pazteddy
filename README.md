@@ -12,7 +12,7 @@
 ---
 ### 🚀 Coding
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,php,laravel,ruby,rails,python,django,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,php,laravel,ruby,rails,python,django,java,mysql,mongodb)](https://skillicons.dev)
 
 <!-- Links -->
 [website]:https://pazteddy.com
