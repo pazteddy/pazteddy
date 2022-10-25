@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working as a fullstack developer 
-- 🌱 I’m currently learning more about dessign patterns
+- 🔭 I’m currently working as a fullstack developer.
+- 🌱 I’m currently learning react native with typescript.
 - 💬 Ask me about my experience as developer or a recipe cook, because I am chef too.
 - 📫 How to reach me: [pazteddy][website]
 - ⚡ Fun fact: I love videogames but there is no time to play.
