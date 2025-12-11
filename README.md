@@ -17,7 +17,4 @@
 <!-- Links -->
 [website]:https://pazteddy.com
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazteddy&layout=compact)](https://github.com/pazteddy/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pazteddy&" alt="pazteddy" /></p>
