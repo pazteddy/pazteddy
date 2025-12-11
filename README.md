@@ -4,15 +4,15 @@
 
 
 
-- 🔭 I’m currently working as a fullstack developer.
-- 🌱 I’m currently learning flutter.
+- 🔭 I’m currently working as an instructor and fullstack developer.
+- 🌱 I’m currently learning n8n.
 - 💬 Ask me about my experience as developer or a recipe cook, because I am chef too.
 - 📫 How to reach me: [pazteddy][website]
 - ⚡ Fun fact: I love videogames but there is no time to play.
 ---
 ### 🚀 Coding
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,angular,php,laravel,ruby,rails,python,django,java,mysql,mongodb,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,cs,html,css,js,react,angular,php,laravel,ruby,rails,python,django,java,mysql,mongodb,dart)](https://skillicons.dev)
 
 <!-- Links -->
 [website]:https://pazteddy.com
