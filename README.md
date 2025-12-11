@@ -14,7 +14,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=net,cs,html,css,js,react,angular,php,laravel,ruby,rails,python,django,java,mysql,mongodb,dart)](https://skillicons.dev)
 
-<!-- Links -->
-[website]:https://pazteddy.com
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pazteddy&" alt="pazteddy" /></p>
