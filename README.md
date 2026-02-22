@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as an instructor and fullstack developer.
 - 🌱 I’m currently learning n8n.
 - 💬 Ask me about my experience as developer or a recipe cook, because I am chef too.
-- 📫 How to reach me: [pazteddy][website]
+- 📫 How to reach me: [pazteddy](https://pazteddy.com)
 - ⚡ Fun fact: I love videogames but there is no time to play.
 ---
 ### 🚀 Coding
